@@ -1,3 +1,5 @@
+<img align="right" alt="Code Girl image" src="https://raw.githubusercontent.com/gist/vittorhonorato/970159369907c2110a2884528663f99c/raw/d164b4617e2910188bcd59ef53ca094a72265744/githubcard.svg"  height="590em"/>
+
 <h1>Hi There! 👋</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-honorato-3542861ba/)](https://www.linkedin.com/in/vitor-honorato-3542861ba/)
@@ -6,11 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vittorhonorato&color=yellow" alt="Profile views" /> </p>
 
+
+
 ## My name is Vitor Honorato 
 ( React JS | Node JS | Typescript | Javascript | HTML | CSS ) 🚀
 - 🎓 Analysis Sistems Development Student 
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
+
+ ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -26,5 +32,7 @@
 [![Vitor top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vittorhonorato&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
   
  </div>
+
+
 
 
