@@ -10,7 +10,7 @@
 
 
 ## My name is Vitor Honorato 
-( React JS | Node JS | Typescript | Javascript | HTML | CSS ) 🚀
+( Javascript | React JS | Node JS | Typescript | Java | MySQL | HTML | CSS ) 🚀
 - 🎓 Analysis Sistems Development Student 
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
