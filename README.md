@@ -39,34 +39,7 @@ Sou apaixonado por tecnologia, autodidata e focado em inovação. Atualmente tra
 
 ## 🛠 &nbsp;Tech Stack
 
-
-
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Nginx](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx)&nbsp;
-![F5 BIG-IP](https://img.shields.io/badge/-F5%20BIG--IP-05122A?style=flat&logo=nginx)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)&nbsp;
-![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven)&nbsp;
-![StackSpot](https://img.shields.io/badge/-StackSpot-05122A?style=flat&logo=appveyor)&nbsp;
-![SSL](https://img.shields.io/badge/-SSL-05122A?style=flat&logo=cloudflare)&nbsp;
-![Scrum](https://img.shields.io/badge/-Scrum-05122A?style=flat&logo=scrum)&nbsp;
-![Kanban](https://img.shields.io/badge/-Kanban-05122A?style=flat&logo=trello)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)&nbsp;
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,python,typescript,angular,react,kafka,aws,redis,postgresql,mysql,docker,terraform)](https://skillicons.dev)
 ---
 
 ## 📊 Estatísticas de GitHub
